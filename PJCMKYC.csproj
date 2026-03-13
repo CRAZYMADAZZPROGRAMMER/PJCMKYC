@@ -13,6 +13,14 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="10.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Campaigning\Controllers\" />
+    <Folder Include="Areas\Campaigning\Data\" />
+    <Folder Include="Areas\Campaigning\Models\" />
+    <Folder Include="Areas\Campaigning\Views\" />
   </ItemGroup>
 
 </Project>
