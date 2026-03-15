@@ -21,6 +21,11 @@
     <Folder Include="Areas\Campaigning\Data\" />
     <Folder Include="Areas\Campaigning\Models\" />
     <Folder Include="Areas\Campaigning\Views\" />
+    <Folder Include="Areas\Settings\Controllers\" />
+    <Folder Include="Areas\Settings\Data\" />
+    <Folder Include="Areas\Settings\Models\" />
+    <Folder Include="Areas\Settings\Views\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
